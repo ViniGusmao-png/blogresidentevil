@@ -1,0 +1,58 @@
+@charset "UTF-8";
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    text-align: center;
+    background-color: darkred;
+}
+img{
+    width: 50px;
+}
+#foto{
+    width: 400px;
+
+}
+#filme{
+    width: 400px;
+    height: 290px;
+}
+h1{
+    display: inline-block;
+}
+nav{
+    background-color: rgb(138, 0, 0);
+    padding: 5px;
+    text-align: left;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    font-size: larger;
+    font-style: italic;
+}
+body{
+    background-color: black;
+}
+main{
+    text-align: center;
+    min-width: 300px;
+    max-width: 1050px;
+    margin: auto;
+    color: black;
+    background-color: white;
+}
+
+footer{
+    padding: 5px;
+    text-align: center;
+    bottom: 0;
+    background-color: darkred;
+}
+ul{
+    text-align: justify;
+}
