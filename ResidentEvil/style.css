@@ -6,7 +6,18 @@
 }
 header{
     text-align: center;
-    background-color: darkred;
+    background-image: linear-gradient(to right, black, darkred);
+}
+#resident{
+    color: white;
+
+}
+#evil{
+    padding-left: 5px;
+    color: red;
+}
+#slogan{
+    color: white;
 }
 img{
     width: 50px;
