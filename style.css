@@ -20,20 +20,11 @@ header{
     color: white;
 }
 .image{
-    width: 320px;
-    height: 320px;
+    width: 300px;
+    height: 350px;
 }
 img{
     width: 50px;
-}
-
-#foto{
-    width: 350px;
-
-}
-#filme{
-    width: 350px;
-    height: 290px;
 }
 h1{
     display: inline-block;
@@ -80,6 +71,8 @@ ul{
 }
 /* ID da pagina JOGOS */
 #jogo{
+    margin: 0px 0px 30px 0px;
+    list-style: decimal;
     columns: 2;
 }
 #intro{
@@ -90,7 +83,15 @@ ul{
     
 }
 #divintro{
-
     border-radius: 10px 10px;
     background-color: rgba(139, 0, 0, 0.158);
+}
+#flor{
+    width: 300px;
+}
+h3{
+    margin: 15px;
+}
+h4{
+    margin:5px 0px;
 }
