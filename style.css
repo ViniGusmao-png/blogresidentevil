@@ -8,26 +8,31 @@ header{
     text-align: center;
     background-image: linear-gradient(to right, black, darkred);
 }
-#resident{
+.resident{
     color: white;
 
 }
-#evil{
+.evil{
     padding-left: 5px;
     color: red;
 }
-#slogan{
+.slogan{
     color: white;
+}
+.image{
+    width: 320px;
+    height: 320px;
 }
 img{
     width: 50px;
 }
+
 #foto{
-    width: 400px;
+    width: 350px;
 
 }
 #filme{
-    width: 400px;
+    width: 350px;
     height: 290px;
 }
 h1{
