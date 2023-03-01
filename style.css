@@ -95,13 +95,13 @@ h3{
 h4{
     margin:5px 0px;
 }
-.personagem > img{
+.flex-container{
+    margin: 5px 0px;
+    text-align: left;
+    display: inline-flex;
+}
+.fotos{
     width: 100px;
-}
-.personagem > p {
-    margin: 0px 20px;
-}
-.foto > img{
-    margin: 0px 0px 0px 30px;
-    width: 150px ;
+    margin: 10px 20px;
+    box-shadow: 2px 5px 10px;
 }
