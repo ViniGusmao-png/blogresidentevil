@@ -46,6 +46,7 @@ body{
     background-image: url('imagens/fundoUmbrella.png');
 }
 main{
+    font-size: large;
     text-align: center;
     min-width: 300px;
     max-width: 1050px;
