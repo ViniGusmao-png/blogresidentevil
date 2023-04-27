@@ -1,4 +1,4 @@
-# [Blog Resident Evi](https://vinigusmao-png.github.io/blogresidentevil/)l <img src="https://github.com/ViniGusmao-png/blogresidentevil/blob/main/imagens/logo-umbrella.png?raw=true" alt="logo" width="5%">
+# [Blog Resident Evil](https://vinigusmao-png.github.io/blogresidentevil/) <img src="https://github.com/ViniGusmao-png/blogresidentevil/blob/main/imagens/logo-umbrella.png?raw=true" alt="logo" width="5%">
 
 
 Este é um projeto de blog sobre a franquia Resident Evil, desenvolvido com HTML e CSS.
